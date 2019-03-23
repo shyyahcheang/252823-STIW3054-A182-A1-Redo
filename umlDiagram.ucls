@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="softwareEffortEstimation.CalSimpleUseCase" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalSimpleUseCase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="276" y="34"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="softwareEffortEstimation.ExperienceFactor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ExperienceFactor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="740" y="946"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="softwareEffortEstimation.CalAverageUseCase" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalAverageUseCase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="370" y="-91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="softwareEffortEstimation.CalComplexReportMhEstimate" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalComplexReportMhEstimate.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2241" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="softwareEffortEstimation.CalSimpleReportMhEstimate" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalSimpleReportMhEstimate.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1792" y="1357"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="softwareEffortEstimation.ContextEF" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ContextEF.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="956" y="794"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="softwareEffortEstimation.ManHours" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ManHours.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1547" y="874"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="softwareEffortEstimation.ContextER" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ContextER.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2214" y="1086"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="softwareEffortEstimation.CalE4" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE4.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="443" y="922"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="softwareEffortEstimation.CalE3" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE3.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="452" y="788"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="softwareEffortEstimation.CalE2" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="611" y="675"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="softwareEffortEstimation.CalE1" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="828" y="685"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="softwareEffortEstimation.CalE8" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE8.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="967" y="1074"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="softwareEffortEstimation.ContextAT" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ContextAT.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1229" y="-315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="softwareEffortEstimation.CalE7" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE7.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="832" y="1181"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="softwareEffortEstimation.CalE6" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE6.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="617" y="1171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="softwareEffortEstimation.CalE5" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalE5.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="479" y="1046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="softwareEffortEstimation.CalSimpleActor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalSimpleActor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1421" y="-378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="softwareEffortEstimation.ContextTF" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ContextTF.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1286" y="3"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="softwareEffortEstimation.EstimatingReportType" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/EstimatingReportType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1952" y="1214"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="softwareEffortEstimation.CalT3" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT3.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1944" y="33"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="softwareEffortEstimation.CalT2" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1727" y="-6"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="softwareEffortEstimation.CalT1" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1515" y="-1"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="softwareEffortEstimation.CalT7" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT7.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2045" y="433"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="softwareEffortEstimation.SoftwareEffortEstimation" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/SoftwareEffortEstimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="167" x="929" y="-471"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="softwareEffortEstimation.ActorPoints" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ActorPoints.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1014" y="-137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="softwareEffortEstimation.CalT6" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT6.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2116" y="320"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="softwareEffortEstimation.CalT10" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT10.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1635" y="638"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="softwareEffortEstimation.CalT5" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT5.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2158" y="205"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="softwareEffortEstimation.CalT4" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT4.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2160" y="94"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="31" language="java" name="softwareEffortEstimation.TechnicalFactor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/TechnicalFactor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1531" y="249"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="32" language="java" name="softwareEffortEstimation.TFactor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/TFactor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1066" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="softwareEffortEstimation.CalT9" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT9.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1750" y="524"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="softwareEffortEstimation.CalT8" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT8.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1986" y="551"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="softwareEffortEstimation.ContextUC" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ContextUC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="685" y="-169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="softwareEffortEstimation.CalT12" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT12.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1324" y="517"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="softwareEffortEstimation.CalT11" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT11.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1423" y="638"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="softwareEffortEstimation.CalT13" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalT13.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1288" y="378"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="39" language="java" name="softwareEffortEstimation.ActorType" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/ActorType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1405" y="-150"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="40" language="java" name="softwareEffortEstimation.CalComplexActor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalComplexActor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1656" y="-200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="softwareEffortEstimation.EFactor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/EFactor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1198" y="948"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="42" language="java" name="softwareEffortEstimation.UseCasesType" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/UseCasesType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="559" y="55"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="43" language="java" name="softwareEffortEstimation.CalComplexUseCase" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalComplexUseCase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="504" y="-209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="softwareEffortEstimation.CalAverageActor" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalAverageActor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1610" y="-327"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="softwareEffortEstimation.EstimatingReport" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/EstimatingReport.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1492" y="1219"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="softwareEffortEstimation.CalAverageReportMhEstimate" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/CalAverageReportMhEstimate.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2047" y="1373"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="softwareEffortEstimation.AdjustedManHours" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/AdjustedManHours.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1918" y="975"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="softwareEffortEstimation.UseCases" project="Assignment_1" 
+    file="/Assignment_1/src/softwareEffortEstimation/UseCases.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="785" y="36"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="49">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="50">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="51">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="52">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="53">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="54">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <realization id="56">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <realization id="57">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="59">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="60">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <realization id="61">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="62">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="63">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="64">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="65" name="estimating"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="67">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="32"/>  
+  </generalization>  
+  <realization id="69">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="45"/>    
+    <end type="TARGET" refId="47"/>  
+  </generalization>  
+  <realization id="72">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="73">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="74">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="75">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="76">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="41"/>  
+  </generalization>  
+  <realization id="78">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <realization id="79">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="80">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="81" name="experience"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="83">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="84">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="85">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="86" name="useCase"/>      
+      <multiplicity id="87" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="88">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="89">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="90">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <generalization id="91">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="92">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="93">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <realization id="94">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="95">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <realization id="96">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="97">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="48"/>  
+  </generalization>  
+  <realization id="98">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="39"/>  
+  </realization>  
+  <realization id="99">    
+    <end type="SOURCE" refId="43"/>    
+    <end type="TARGET" refId="42"/>  
+  </realization>  
+  <association id="100">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="101" name="actor"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="104" name="technical"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
